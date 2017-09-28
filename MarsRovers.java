@@ -10,6 +10,8 @@ import java.io.IOException;
  * @author Neto Travizan
  */
 
+// Classe de execucao 
+ 
  public class MarsRovers {
 	// Controlador do planalto.
     public static PlateauController plateauController = new PlateauController();

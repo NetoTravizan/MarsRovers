@@ -12,6 +12,8 @@ import java.util.logging.Logger;
  * @author Neto Travizan
  */
 
+ // Classe que define os rovers
+ 
  public class Rover {
     // Posicao
     private int x;

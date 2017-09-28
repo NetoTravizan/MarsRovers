@@ -10,6 +10,8 @@ import jdk.jfr.events.FileWriteEvent;
  *
  * @author Neto Travizan
  */
+
+ // Classe para controlar todo o ambiente, ou plateau
  
 public class PlateauController {
     // Tamanho do plateau
